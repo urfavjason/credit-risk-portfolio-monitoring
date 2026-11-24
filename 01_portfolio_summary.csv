@@ -1,4 +1,4 @@
-observation_month,vintage_year,employment_status,loan_term,score_band,dti_band,active_loans,total_remaining_bal,loans_npl_90plus,npl_rate_pct,risk_appetite_status
+data/observation_month,vintage_year,employment_status,loan_term,score_band,dti_band,active_loans,total_remaining_bal,loans_npl_90plus,npl_rate_pct,risk_appetite_status
 2024-07,2022,Self-Employed,84,2. Near-Prime (620-679),3. High (>45%),39,1534649.86,5.0,12.82,Red (Breach)
 2024-10,2022,Self-Employed,84,2. Near-Prime (620-679),3. High (>45%),39,1457663.57,5.0,12.82,Red (Breach)
 2024-11,2022,Self-Employed,84,2. Near-Prime (620-679),3. High (>45%),39,1432001.48,5.0,12.82,Red (Breach)
