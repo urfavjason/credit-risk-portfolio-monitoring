@@ -1,4 +1,4 @@
-data/vintage_year,vintage_quarter,months_on_book,matured_loans,defaulted_loans,cum_default_rate_pct
+vintage_year,vintage_quarter,months_on_book,matured_loans,defaulted_loans,cum_default_rate_pct
 2022,2022-Q1,1,11034,0.0,0.0
 2022,2022-Q1,2,11034,0.0,0.0
 2022,2022-Q1,3,11034,0.0,0.0
