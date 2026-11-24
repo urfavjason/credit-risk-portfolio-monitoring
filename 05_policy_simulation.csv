@@ -1,0 +1,4 @@
+scenario,npl_rate_pct,vol_sacrificed_pct,loss_avoided_pct
+0. Baseline,7.68,0.0,0.0
+A. Cut Subprime + High DTI,7.64,0.75,1.27
+B. Cut Full L-Shape Red Zone,7.16,16.75,22.34
